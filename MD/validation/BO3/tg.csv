@@ -1,0 +1,11 @@
+acid,epoxide,density,tg_md,tg_md_cv,tg_pred,pca1,pca2
+O=C(Nc1ccc(C(=O)O)cc1)C(=O)Nc1ccc(C(=O)O)c2c1C(=O)CCC2,O=C(Nc1c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(C(=O)Nc2ccccc2)c(NC(=O)c2ccccc2)c1C(=O)Nc1ccccc1)c1ccccc1,1.2455,604.9158,0.1171,550.5801,-5.3397,-2.3912
+O=C(Nc1ccc(C(=O)O)cc1)C(=O)Nc1ccc(C(=O)O)c(C(=O)c2ccccc2)c1,O=C(Nc1c(C(=O)Nc2ccccc2)c(C(=O)Nc2ccccc2)c(C(=O)Nc2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c1C(=O)Nc1ccccc1)c1ccccc1,1.2477,468.9598,0.1356,546.7683,-4.6000,-2.3275
+O=C(O)C(=O)Nc1cc(C(=O)Nc2ccc(C(=O)O)cc2)ccc1NC(=O)c1ccccc1,O=C(Nc1c(NC(=O)c2ccccc2)c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)c2ccccc2)c1NC(=O)c1ccccc1)c1ccccc1,1.2403,527.5309,0.0958,546.0831,-4.8184,-3.3451
+O=C(O)C(=O)Nc1cc(C(=O)Nc2ccccc2C(=O)O)ccc1NC(=O)c1ccccc1,O=C(Nc1c(NC(=O)c2ccccc2)c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)c2ccccc2)c1NC(=O)c1ccccc1)c1ccccc1,1.2470,520.0804,0.1560,546.0037,-4.7293,-3.4848
+O=C(O)CCN(CCC(=O)O)C(=O)c1c(NC(=O)c2ccccc2)c(NC(=O)c2ccccc2)c(NC(=O)c2ccc(C(=O)Nc3ccccc3)cc2)c(C(=O)Nc2ccc(C(=O)c3ccccc3)cc2)c1C(=O)Nc1ccc(C(=O)c2ccccc2)cc1,O=C(O)Nc1ccc(C(=O)Nc2cccc(C(=O)N(CC3CO3)CC3CO3)c2)cc1,1.2455,516.3411,0.0616,544.9631,-3.8336,-3.3971
+O=C(O)c1ccc(NC(=O)c2c(C(=O)Nc3ccc(C(=O)O)c4c3C=CCC4)c3c(=O)c(=O)c(=O)c(=O)c3c3c(=O)c(=O)c(=O)c(=O)c23)cc1,O=C(Nc1ccc(C(=O)Nc2ccc(OCC3CO3)cc2)cc1)C(=O)N1CCN(C(=O)c2cccc(OCC3CO3)c2)CC1,1.3262,507.3586,0.0995,544.0751,-4.9567,-2.8199
+O=C(O)CC(=O)Nc1c(C(=O)Nc2ccc(C(=O)O)c(N3CCc4ccccc4C3)c2)c2c(=O)c(=O)c(=O)c(=O)c2c2c(=O)c(=O)c(=O)c(=O)c12,O=C(Nc1ccc(C(=O)N(CC2CO2)CC2CO2)cc1)c1ccc(NC(=O)c2cccnc2)cc1,1.3266,535.4903,0.1909,543.1467,-5.0011,-2.0628
+O=C(O)c1ccc(C(=O)Nc2ccc(C(=O)O)c(NC(=O)c3ccc4c(c3)CCC4)c2)cc1,O=C(Nc1c(NC(=O)c2ccccc2)c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)c2ccccc2)c1NC(=O)c1ccccc1)c1ccccc1,1.2174,533.3726,0.0562,542.0557,-4.4991,-3.0448
+O=C(O)CC(=O)Nc1c(C(=O)N2CCC(C(=O)O)(c3ccccc3)CC2)c2c(=O)c(=O)c(=O)c(=O)c2c2c(=O)c(=O)c(=O)c(=O)c12,O=C(Nc1ccc(C(=O)N(CC2CO2)CC2CO2)cc1)c1ccc(NC(=O)c2cccnc2)cc1,1.3211,527.4356,0.0897,540.7030,-4.9286,-1.7431
+O=C(Nc1ccc(C(=O)O)cc1)C(=O)Nc1ccc(C(=O)O)c2c1CCCC2,O=C(Nc1c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(C(=O)Nc2ccccc2)c(C(=O)Nc2ccccc2)c1C(=O)Nc1ccccc1)c1ccccc1,1.2341,541.4986,0.0735,539.8639,-5.4346,-2.2038
