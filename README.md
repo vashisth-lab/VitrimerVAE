@@ -30,6 +30,8 @@ The calibrated *T*<sub>g</sub> data (`Calibration/tg_vitrimer_calibrated.csv`) s
 ## VAE
 The VAE codes are based on https://github.com/wengong-jin/hgraph2graph/
 
+The overlapping latent dimension method is based on https://github.com/li-zhengz/UnifyingTrussDesignSpace
+
 The codes are tested in the following environment:
  - Python (3.6.13)
  - PyTorch (1.10.1)
