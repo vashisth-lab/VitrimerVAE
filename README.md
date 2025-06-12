@@ -44,7 +44,8 @@ To train the VAE and generate novel vitrimers:
 `python get_vocab.py --ncpu 32`
 
 2. Preprocess molecules into tensors:\
-`python preprocess.py --ncpu 32`
+`python preprocess.py --ncpu 32`\
+Note: this step requires a large amount of memory. The code has been tested using 32 CPUs each with 5 GB memory.
 
 3. Train the VAE on the unlabeled dataset:\
 `python train_vae.py --savedir results`
