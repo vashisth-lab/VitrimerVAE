@@ -39,6 +39,9 @@ The codes are tested in the following environment:
  - networkx (2.2)
  - Numpy (1.19.2)
 
+Alternatively, create a conda environment using the provided .yml file\
+`conda env create -f hiervae.yml`
+
 To train the VAE and generate novel vitrimers:
 1. Exrtact motif vocabulary from training set:\
 `python get_vocab.py --ncpu 32`
